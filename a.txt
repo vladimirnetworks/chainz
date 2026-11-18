@@ -1,3 +1,4 @@
+newline content...
 این یک خط جدید است
 این یک خط جدید است
 chain://chain://eyJyZW1hcmsiOiJ0b3IgREUyICMxIiwiY2hhaW4iOlsic29ja3M6Ly9PZyUzRCUzREAxMjcuMC4wLjE6OTA1MCNmaXJzdCIsInNzOi8vWVdWekxUSTFOaTFuWTIwNldsSndaMkZDWlVkNGRFVk9TVmhuZG1od2ExcENTM281UjI1WFVsTXlaRmxqZURsUEsyRXlhWGRPTkQwQDE5My4xMDguMTE2Ljk4OjE5OTk5PyMlRjAlOUYlODclQTklRjAlOUYlODclQUFHZXJtYW55XzEuMnMiXX0=

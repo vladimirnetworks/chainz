@@ -1,3 +1,4 @@
+vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?type=ws&path=/vless/&host=57.129.41.216&security=none&encryption=none#🇩🇪57.129.41.216
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?host=ov-germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#🇩🇪57.129.41.216
 vless://3cfa0d9b-6279-4b73-8533-09ad84e49c80@57.129.41.216:80?security=none&type=ws&path=%2Fvless%2F&packetEncoding=xudp#🇩🇪57.129.41.216
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?path=%2Fvless%2F&security=&encryption=none&host=ov-germany1.09vpn.com&type=ws#🇩🇪57.129.41.216

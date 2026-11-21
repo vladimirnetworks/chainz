@@ -1,4 +1,5 @@
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@213.202.208.199:5000#🇩🇪213.202.208.199
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@213.202.208.199:5000#🇩🇪213.202.208.199
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?sni=mosaic.topp-con.xyz&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls#🇩🇪91.107.157.36
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@213.202.208.199:5000#🇩🇪213.202.208.199
 vless://02974d2b-518f-4f95-91cc-b145b6e4805e@89.163.239.238:2053?security=reality&encryption=none&pbk=vZmTxEoOhD-VAACucx2KmzWaKlYyXdkkUUv0RzlDsgo&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=2fa414c6dd1189db#🇩🇪89.163.239.238
